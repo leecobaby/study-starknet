@@ -14,6 +14,7 @@ mod HelloStarknet {
     // Returns the current balance.
     #[view]
     fn get_balance() -> felt252 {
+        let test = 'leeco';
         balance::read()
     }
 
