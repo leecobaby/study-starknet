@@ -1,0 +1,30 @@
+{
+  "name": "study-starknet",
+  "description": "study starknet",
+  "version": "1.0.0",
+  "main": "starknet.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "starknet": "^4.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leecobaby/study-starknet.git"
+  },
+  "keywords": [
+    "starknet"
+  ],
+  "author": "leeco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leecobaby/study-starknet/issues"
+  },
+  "homepage": "https://github.com/leecobaby/study-starknet#readme"
+}
